@@ -1,1 +1,2 @@
 sudo docker push ubuntu
+sudo docker image ls
