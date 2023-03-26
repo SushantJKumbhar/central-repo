@@ -6,5 +6,5 @@ sudo docker push ubuntu
 
 sudo docker image rm
 
-sudo docker image ls
+
 
