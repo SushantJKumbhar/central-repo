@@ -3,3 +3,4 @@ sudo docker run -p 8080:8080 --name trail ubuntu
 
 sudo docker push ubuntu
 
+sudo docker image rm
